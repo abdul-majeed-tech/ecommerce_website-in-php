@@ -1,6 +1,6 @@
 <?php
-include('../includes/connect.php');
-include('../functions/common_function.php');
+include(__DIR__ . '../includes/connect.php');
+include(__DIR__ . '../functions/common_function.php');
 session_start(); 
 
 ?>
